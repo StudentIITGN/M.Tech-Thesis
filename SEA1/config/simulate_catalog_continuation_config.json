@@ -1,0 +1,5 @@
+{
+  "forecast_duration": 365,
+  "fn_store_simulation": "C:\\Users\\Dakshata\\OneDrive -  iitgn.ac.in\\Thesis\\Thesis\\All_SEA\\SEA1\\outputdatasimulated_catalog_continuation.csv",
+  "fn_inversion_output": "C:\\Users\\Dakshata\\OneDrive - iitgn.ac.in\\Thesis\\Thesis\\All_SEA\\SEA1\\outputdataparameters_0.json"
+}
