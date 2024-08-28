@@ -14,7 +14,7 @@
       o	magnitudes.npy: example magnitudes for mc estimation
       
 
-•	congif/ configuration files for running the scripts in runnable_code/
+•	config/ configuration files for running the scripts in runnable_code/
 
       o	names should be self-explanatory
       
