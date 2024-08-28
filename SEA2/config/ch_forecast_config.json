@@ -1,0 +1,31 @@
+{
+  "fn_catalog": "C:\\Users\\Dakshata\\OneDrive - iitgn.ac.in\\Thesis\\Thesis\\All_SEA\\SEA2\\InputData\\ch_catalog.csv",
+  "data_path": "C:\\Users\\Dakshata\\OneDrive - iitgn.ac.in\\Thesis\\Thesis\\All_SEA\\SEA2\\outputdata",
+  "auxiliary_start": "11-01-1960 03:10",
+  "timewindow_start": "24-02-1970 06:40",
+  "timewindow_end": "05-12-2023 14:45",
+  "free_productivity": false,
+  "free_background": false,
+  "theta_0": {
+    "log10_mu": -6.21,
+    "log10_k0": -2.75,
+    "a": 1.13,
+    "log10_c": -2.85,
+    "omega": -0.13,
+    "log10_tau": 3.57,
+    "log10_d": -0.51,
+    "gamma": 0.15,
+    "rho": 0.63
+  },
+  "mc": 4.8,
+  "delta_m": 0.1,
+  "m_max":7.5,
+  "coppersmith_multiplier": 100,
+  "earth_radius": 6.3781e3,
+  "shape_coords": "C:\\Users\\Dakshata\\OneDrive - iitgn.ac.in\\Thesis\\Thesis\\All_SEA\\SEA2\\InputData\\ch_rect.npy",
+  "id": "ch",
+  "forecast_duration": 30,
+  "fn_store_simulation": "C:\\Users\\Dakshata\\OneDrive - iitgn.ac.in\\Thesis\\Thesis\\All_SEA\\SEA2\\outputdata\\simulations_ch.csv",
+  "n_simulations": 100
+}
+

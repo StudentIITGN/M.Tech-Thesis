@@ -1,0 +1,21 @@
+{
+  "fn_store": "C:\\Users\\Dakshata\\OneDrive - iitgn.ac.in\\Thesis\\Thesis\\All_SEA\\SEA2\\outputdata\\simulated_catalog.csv",
+  "shape_coords": "C:\\Users\\Dakshata\\OneDrive - iitgn.ac.in\\Thesis\\Thesis\\All_SEA\\SEA2\\InputData\\SEA2shape.npy",
+  "burn_start": "11-01-1960 03:10",
+  "primary_start": "24-02-1970 06:40",
+  "end": "05-12-2023 14:45",
+  "delta_m": 0.1,
+  "mc": 4.8,
+  "beta": 3.05686869716036,
+  "parameters": {
+    "log10_mu": -7.5,
+    "log10_k0": -2.49,
+    "a": 1.69,
+    "log10_c": -2.95,
+    "omega": -0.03,
+    "log10_tau": 3.99,
+    "log10_d": -0.35,
+    "gamma": 1.22,
+    "rho": 0.51
+  }
+}
